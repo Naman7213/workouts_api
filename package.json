@@ -1,0 +1,19 @@
+{
+  "name": "exercisesdb",
+  "version": "1.0.0",
+  "description": "all exercises, exercises by body part and exercises by target muscles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Naman Verma",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
